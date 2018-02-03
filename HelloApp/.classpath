@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SimpleEJB"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Adder"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/server-side"/>
+	<classpathentry kind="lib" path="libs/wildfly-client-all-9.0.1.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
